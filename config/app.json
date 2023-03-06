@@ -1,9 +1,9 @@
 {
-  "name": "Kittygotchi",
+  "name": "",
   "locale": "en-US",
   "currency": "usd",
-  "theme": "kittygotchi",
-  "url": "https://www.kittygotchi.com",
+  "theme": "",
+  "url": "https://www..com",
   "logo": {
     "url": "/assets/images/market-logo.svg",
     "height": "",
@@ -11,8 +11,8 @@
   },
   "favicon_url": "",
   "social": [
-    { "type": "instagram", "handle": "dexkit_crew" },
-    { "type": "twitter", "handle": "dexkit" }
+    { "type": "instagram", "handle": "" },
+    { "type": "twitter", "handle": "" }
   ],
   "transak": {
     "enabled": true
@@ -20,7 +20,7 @@
   "fees": [
     {
       "amount_percentage": 1,
-      "recipient": "0x5bD68B4d6f90Bcc9F3a9456791c0Db5A43df676d"
+      "recipient": "0xCd2e3B71bAeF95A4FbB7431a00244A3938FE78e3"
     }
   ],
   "format": {
@@ -29,31 +29,31 @@
   },
   "collections": [
     {
-      "image": "/assets/kittygotchi/banner_eth.svg",
-      "name": "Kittygotchi",
-      "backgroundImage": "/assets/kittygotchi/banner_eth.svg",
+      "image": "/assets//banner_eth.svg",
+      "name": "",
+      "backgroundImage": "/assets//banner_eth.svg",
       "chainId": 1,
       "contractAddress": "0xe76591AD590765e9Ab9EdE82BEa274aFcF5Ce703",
       "description": "",
-      "uri": "kittygotchieth"
+      "uri": "eth"
     },
     {
-      "image": "/assets/kittygotchi/banner_bsc.svg",
-      "name": "Kittygotchi",
-      "backgroundImage": "/assets/kittygotchi/banner_bsc.svg",
+      "image": "/assets//banner_bsc.svg",
+      "name": "",
+      "backgroundImage": "/assets//banner_bsc.svg",
       "chainId": 56,
       "contractAddress": "0xf44112926506318e3Aace4381B2D76791D980Ac3",
       "description": "",
-      "uri": "kittygotchibsc"
+      "uri": "bsc"
     },
     {
-      "image": "/assets/kittygotchi/banner_polygon.svg",
-      "name": "Kittygotchi",
-      "backgroundImage": "/assets/kittygotchi/banner_polygon.svg",
+      "image": "/assets//banner_polygon.svg",
+      "name": "",
+      "backgroundImage": "/assets//banner_polygon.svg",
       "chainId": 137,
       "contractAddress": "0xEA88540adb1664999524d1a698cb84F6C922D2A1",
       "description": "",
-      "uri": "kittygotchi"
+      "uri": ""
     }
   ],
   "tokens": [
@@ -145,7 +145,7 @@
       "sections": [
         {
           "type": "featured",
-          "title": "Kittygotchi Marketplace",
+          "title": " Marketplace",
           "items": [
             {
               "type": "asset",
@@ -161,10 +161,10 @@
             },
             {
               "type": "collection",
-              "title": "Kittygotchi",
+              "title": "",
               "chainId": 137,
               "contractAddress": "0xEA88540adb1664999524d1a698cb84F6C922D2A1",
-              "backgroundImageUrl": "/assets/kittygotchi/banner.svg"
+              "backgroundImageUrl": "/assets//banner.svg"
             }
           ]
         },
@@ -175,24 +175,24 @@
             {
               "featured": true,
               "type": "collection",
-              "title": "Kittygotchi",
+              "title": "",
               "chainId": 137,
               "contractAddress": "0xEA88540adb1664999524d1a698cb84F6C922D2A1",
-              "backgroundImageUrl": "/assets/kittygotchi/banner_polygon.svg"
+              "backgroundImageUrl": "/assets//banner_polygon.svg"
             },
             {
               "type": "collection",
-              "title": "Kittygotchi",
+              "title": "",
               "chainId": 56,
               "contractAddress": "0xf44112926506318e3Aace4381B2D76791D980Ac3",
-              "backgroundImageUrl": "/assets/kittygotchi/banner_bsc.svg"
+              "backgroundImageUrl": "/assets//banner_bsc.svg"
             },
             {
               "type": "collection",
-              "title": "Kittygotchi",
+              "title": "",
               "chainId": 1,
               "contractAddress": "0xe76591AD590765e9Ab9EdE82BEa274aFcF5Ce703",
-              "backgroundImageUrl": "/assets/kittygotchi/banner_eth.svg"
+              "backgroundImageUrl": "/assets//banner_eth.svg"
             }
           ]
         },
@@ -205,7 +205,7 @@
         {
           "variant": "dark",
           "type": "call-to-action",
-          "title": "Kittygotchi",
+          "title": "",
           "subtitle": "See your kitties on ETH, BSC and Polygon networks",
           "button": {
             "title": "See all",
@@ -231,7 +231,7 @@
   },
   "seo": {
     "home": {
-      "title": "Kittygotchi",
+      "title": "",
       "description": "Kittygochi collection: create cute Kitty, make it unique, feed him to earn attack, speed, and defense, he will be here for you. Your Kitty gives you special powers on DexKit Dashboard"
     }
   }

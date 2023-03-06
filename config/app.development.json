@@ -11,8 +11,8 @@
   },
   "favicon_url": "",
   "social": [
-    { "type": "instagram", "handle": "dexkit_crew" },
-    { "type": "twitter", "handle": "dexkit" }
+    { "type": "instagram", "handle": "_crew" },
+    { "type": "twitter", "handle": "" }
   ],
   "transak": {
     "enabled": true
